@@ -1,0 +1,1 @@
+E:\project2022\c++\MySQlConnectionPool\x64\Debug\MySQlConnectionPool.exe

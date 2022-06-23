@@ -1,0 +1,9 @@
+﻿  MySQlConnectionPool.cpp
+E:\project2022\c++\MySQlConnectionPool\MySQlConnectionPool.cpp(34,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project2022\c++\MySQlConnectionPool\MySQlConnectionPool.cpp(41,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project2022\c++\MySQlConnectionPool\MySQlConnectionPool.cpp(22,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+E:\project2022\c++\MySQlConnectionPool\main.cpp(28,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+E:\project2022\c++\MySQlConnectionPool\MySQlConnectionPool.cpp(57): warning C4715: “ConnectionPool::loadConfigFile”: 不是所有的控件路径都返回值
+  MySQlConnectionPool.vcxproj -> E:\project2022\c++\MySQlConnectionPool\x64\Debug\MySQlConnectionPool.exe
